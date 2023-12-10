@@ -3,7 +3,7 @@
 ## Title
 <br />
 <div align="center">
-  <a href="https://sky--bnb.herokuapp.com/#/">
+  <a href="https://sky-bnb.onrender.com/#/">
     <img src="https://res.cloudinary.com/nogacloud/image/upload/v1659367634/other/favicon.png" alt="Logo" width="80" height="80">
   </a>
 
